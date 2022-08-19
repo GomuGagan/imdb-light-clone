@@ -1,6 +1,6 @@
 import "./card.css";
 import { useState, useEffect } from "react";
-import Skeleton, {skeletonTheme} from 'react-loading-skeleton'
+import Skeleton, {SkeletonTheme} from 'react-loading-skeleton'
 import 'react-loading-skeleton/dist/skeleton.css';
 import { Link } from "react-router-dom";
 
